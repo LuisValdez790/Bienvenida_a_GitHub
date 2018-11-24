@@ -1,0 +1,11 @@
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\bin\Debug\HolaGitHub.exe.config
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\bin\Debug\HolaGitHub.exe
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\bin\Debug\HolaGitHub.pdb
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\obj\Debug\HolaGitHub.csprojAssemblyReference.cache
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\obj\Debug\HolaGitHub.frmHolaGitHub.resources
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\obj\Debug\HolaGitHub.Properties.Resources.resources
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\obj\Debug\HolaGitHub.csproj.GenerateResource.cache
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\obj\Debug\HolaGitHub.csproj.CoreCompileInputs.cache
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\obj\Debug\HolaGitHub.exe
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\obj\Debug\HolaGitHub.pdb
+C:\Users\lave7\OneDrive\Documentos\Visual Studio 2017\Projects\HolaGitHub\HolaGitHub\obj\Debug\HolaGitHub.frmLoading.resources
